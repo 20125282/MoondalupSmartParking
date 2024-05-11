@@ -17,5 +17,25 @@ class CarPark:
         else:
             raise TypeError("Object must be a Sensor or Display")
 
+    def add_car(self, plate):
+        self.plates.append(plate)
+        self.update_displays()
+
+    def remove_car(self, plate):
+        self.plates.remove(plate)
+        self.update_displays()
+
+    @property
+    def available_bays(self):
+        if len(self.plates) >= self.capacity:
+            return 0
+        else:
+            return self.capacity - len(self.plates)
+
+    def update_displays(self):
+        data = {
+            "available_bays": self.available_bays,
+            "temperature": 25
+        }
     def __str__(self):
         return "Car park at " + str(self.location) + ", with " + str(self.capacity) + " bays."
