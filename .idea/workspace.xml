@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bb8332e-c891-4829-904c-df4adb8eb373" name="Changes" comment="Added a register method to the car park class">
+    <list default="true" id="1bb8332e-c891-4829-904c-df4adb8eb373" name="Changes" comment="Created core methods for the classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MoondalupSmartParking/src/car_park.py" beforeDir="false" afterPath="$PROJECT_DIR$/MoondalupSmartParking/src/car_park.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoondalupSmartParking/tests/test_car_park.py" beforeDir="false" afterPath="$PROJECT_DIR$/MoondalupSmartParking/tests/test_car_park.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in test_car_park.py.executor": "Run",
     "Python.car_park.executor": "Run",
     "Python.carpark.executor": "Run",
     "Python.display.executor": "Run",
@@ -149,7 +150,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715409633799</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added methods to the car park class">
+      <option name="closed" value="true" />
+      <created>1715412237690</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715412237690</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Created core methods for the classes">
+      <option name="closed" value="true" />
+      <created>1715412899675</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715412899675</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +187,8 @@
     <MESSAGE value="Added constructors and attributes to the car park class" />
     <MESSAGE value="Added constructors and attributes to the display and sensor classes" />
     <MESSAGE value="Added a register method to the car park class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a register method to the car park class" />
+    <MESSAGE value="Added methods to the car park class" />
+    <MESSAGE value="Created core methods for the classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created core methods for the classes" />
   </component>
 </project>
