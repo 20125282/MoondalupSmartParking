@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bb8332e-c891-4829-904c-df4adb8eb373" name="Changes" comment="Created core methods for the classes">
+    <list default="true" id="1bb8332e-c891-4829-904c-df4adb8eb373" name="Changes" comment="Added unit tests for the car park class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoondalupSmartParking" beforeDir="false" afterPath="$PROJECT_DIR$/MoondalupSmartParking" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoondalupSmartParking/src/car_park.py" beforeDir="false" afterPath="$PROJECT_DIR$/MoondalupSmartParking/src/car_park.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoondalupSmartParking/tests/test_car_park.py" beforeDir="false" afterPath="$PROJECT_DIR$/MoondalupSmartParking/tests/test_car_park.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +44,9 @@
     &quot;accountId&quot;: &quot;8e836888-78c6-4ab0-8bb2-c7895396d214&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -52,6 +57,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_car_park.TestCarPark.executor": "Run",
+    "Python tests.Python tests for test_car_park.TestCarPark.test_add_car.executor": "Debug",
+    "Python tests.Python tests for test_car_park.TestCarPark.test_car_park_initialized_with_all_attributes.executor": "Debug",
     "Python tests.Python tests in test_car_park.py.executor": "Run",
     "Python.car_park.executor": "Run",
     "Python.carpark.executor": "Run",
@@ -62,6 +70,60 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for test_car_park.TestCarPark">
+    <configuration name="Python tests for test_car_park.TestCarPark" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="MoondalupSmartParking" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MoondalupSmartParking/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_car_park.TestCarPark&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_car_park.TestCarPark.test_add_car" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="MoondalupSmartParking" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MoondalupSmartParking/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_car_park.TestCarPark.test_add_car&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_car_park.TestCarPark.test_car_park_initialized_with_all_attributes" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="MoondalupSmartParking" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MoondalupSmartParking/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_car_park.TestCarPark.test_car_park_initialized_with_all_attributes&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_car_park.TestCarPark" />
+        <item itemvalue="Python tests.Python tests for test_car_park.TestCarPark.test_add_car" />
+        <item itemvalue="Python tests.Python tests for test_car_park.TestCarPark.test_car_park_initialized_with_all_attributes" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -166,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715412899675</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added unit tests for the car park class">
+      <option name="closed" value="true" />
+      <created>1715439008405</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715439008405</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +259,7 @@
     <MESSAGE value="Added a register method to the car park class" />
     <MESSAGE value="Added methods to the car park class" />
     <MESSAGE value="Created core methods for the classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created core methods for the classes" />
+    <MESSAGE value="Added unit tests for the car park class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added unit tests for the car park class" />
   </component>
 </project>
