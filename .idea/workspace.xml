@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bb8332e-c891-4829-904c-df4adb8eb373" name="Changes" comment="Added unit tests for the car park class">
+    <list default="true" id="1bb8332e-c891-4829-904c-df4adb8eb373" name="Changes" comment="Fixed error messages for unit tests for the car park class">
+      <change afterPath="$PROJECT_DIR$/MoondalupSmartParking/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_display.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MoondalupSmartParking" beforeDir="false" afterPath="$PROJECT_DIR$/MoondalupSmartParking" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoondalupSmartParking/src/car_park.py" beforeDir="false" afterPath="$PROJECT_DIR$/MoondalupSmartParking/src/car_park.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoondalupSmartParking/src/display.py" beforeDir="false" afterPath="$PROJECT_DIR$/MoondalupSmartParking/src/display.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoondalupSmartParking/src/sensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/MoondalupSmartParking/src/sensor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoondalupSmartParking/tests/test_car_park.py" beforeDir="false" afterPath="$PROJECT_DIR$/MoondalupSmartParking/tests/test_car_park.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,16 +65,19 @@
     "Python tests.Python tests for test_car_park.TestCarPark.test_add_car.executor": "Debug",
     "Python tests.Python tests for test_car_park.TestCarPark.test_car_park_initialized_with_all_attributes.executor": "Debug",
     "Python tests.Python tests in test_car_park.py.executor": "Run",
+    "Python tests.Python tests in test_display.py.executor": "Run",
     "Python.car_park.executor": "Run",
     "Python.carpark.executor": "Run",
     "Python.display.executor": "Run",
+    "Python.sensor.executor": "Run",
+    "Python.test_display.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/chery/OneDrive/Documents/Projects (TAFE)/SmartParkingInitiative/MoondalupSmartParking",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_car_park.TestCarPark">
+  <component name="RunManager">
     <configuration name="Python tests for test_car_park.TestCarPark" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="MoondalupSmartParking" />
       <option name="ENV_FILES" value="" />
@@ -236,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715439008405</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Fixed error messages for unit tests for the car park class">
+      <option name="closed" value="true" />
+      <created>1715500163581</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715500163581</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,6 +275,7 @@
     <MESSAGE value="Added methods to the car park class" />
     <MESSAGE value="Created core methods for the classes" />
     <MESSAGE value="Added unit tests for the car park class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added unit tests for the car park class" />
+    <MESSAGE value="Fixed error messages for unit tests for the car park class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed error messages for unit tests for the car park class" />
   </component>
 </project>
