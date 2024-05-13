@@ -1,3 +1,6 @@
+from src import sensor
+from src import display
+
 class CarPark:
     def __init__(self, location, capacity, plates=None, sensors=None, displays=None):
         self.location = location
@@ -7,14 +10,13 @@ class CarPark:
         self.displays = displays or []
 
     def register(self, component):
-        from sensor import Sensor  # Import moved here
-        from display import Display  # Import moved here
         if isinstance(component, Sensor):
             self.sensors.append(component)
         elif isinstance(component, Display):
             self.displays.append(component)
         else:
             raise TypeError("Object must be a Sensor or Display")
+
 
     def add_car(self, plate):
         from display import Display  # Import moved here

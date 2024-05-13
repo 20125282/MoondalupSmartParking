@@ -1,3 +1,4 @@
+
 class Display:
     def __init__(self, id, message="Welcome to the Moondalup carpark", is_on=False, car_park=None):
         self.id = id
