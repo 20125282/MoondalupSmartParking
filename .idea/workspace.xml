@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1bb8332e-c891-4829-904c-df4adb8eb373" name="Changes" comment="Attempt #1 to solve unittest error messages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MoondalupSmartParking" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/car_park.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/car_park.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_car_park.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_car_park.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,28 +55,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_car_park.TestCarPark.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_car_park.TestCarPark.test_add_car.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests for test_car_park.TestCarPark.test_car_park_initialized_with_all_attributes.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests in test_car_park.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_display.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python.advanced_template_guess_my_word.executor&quot;: &quot;Run&quot;,
-    &quot;Python.car_park.executor&quot;: &quot;Run&quot;,
-    &quot;Python.carpark.executor&quot;: &quot;Run&quot;,
-    &quot;Python.display.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sensor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.simple_python_template.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_display.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wordletest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/chery/OneDrive/Documents/Projects (TAFE)/SmartParkingInitiative/MoondalupSmartParking&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_car_park.TestCarPark.executor": "Run",
+    "Python tests.Python tests for test_car_park.TestCarPark.test_add_car.executor": "Debug",
+    "Python tests.Python tests for test_car_park.TestCarPark.test_car_park_initialized_with_all_attributes.executor": "Debug",
+    "Python tests.Python tests in test_car_park.py.executor": "Run",
+    "Python tests.Python tests in test_display.py.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.advanced_template_guess_my_word.executor": "Run",
+    "Python.car_park.executor": "Run",
+    "Python.carpark.executor": "Run",
+    "Python.display.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.sensor.executor": "Run",
+    "Python.simple_python_template.executor": "Run",
+    "Python.test_display.executor": "Run",
+    "Python.wordletest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/chery/OneDrive/Documents/Projects (TAFE)/SmartParkingInitiative/MoondalupSmartParking",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Python tests for test_car_park.TestCarPark" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="MoondalupSmartParking" />
