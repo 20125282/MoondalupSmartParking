@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bb8332e-c891-4829-904c-df4adb8eb373" name="Changes" comment="Created core methods for the classes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MoondalupSmartParking/tests/test_car_park.py" beforeDir="false" afterPath="$PROJECT_DIR$/MoondalupSmartParking/tests/test_car_park.py" afterDir="false" />
-    </list>
+    <list default="true" id="1bb8332e-c891-4829-904c-df4adb8eb373" name="Changes" comment="Created core methods for the classes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +54,7 @@
     "Python.carpark.executor": "Run",
     "Python.display.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "revert",
     "last_opened_file_path": "C:/Users/chery/OneDrive/Documents/Projects (TAFE)/SmartParkingInitiative/MoondalupSmartParking",
     "settings.editor.selected.configurable": "vcs.Git"
   }
