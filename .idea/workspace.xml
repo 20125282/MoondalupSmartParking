@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bb8332e-c891-4829-904c-df4adb8eb373" name="Changes" comment="Attempt #1 to solve unittest error messages">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/car_park.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/car_park.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_car_park.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_car_park.py" afterDir="false" />
+    <list default="true" id="1bb8332e-c891-4829-904c-df4adb8eb373" name="Changes" comment="Fixed the unit test error">
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/display.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/display.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +71,7 @@
     "Python.test_display.executor": "Run",
     "Python.wordletest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "last_opened_file_path": "C:/Users/chery/OneDrive/Documents/Projects (TAFE)/SmartParkingInitiative/MoondalupSmartParking",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
@@ -260,7 +258,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715605824946</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Fixed the unit test error">
+      <option name="closed" value="true" />
+      <created>1716644388888</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1716644388888</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,6 +292,7 @@
     <MESSAGE value="Added unit tests for the car park class" />
     <MESSAGE value="Fixed error messages for unit tests for the car park class" />
     <MESSAGE value="Attempt #1 to solve unittest error messages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Attempt #1 to solve unittest error messages" />
+    <MESSAGE value="Fixed the unit test error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed the unit test error" />
   </component>
 </project>
