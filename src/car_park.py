@@ -53,11 +53,13 @@ class CarPark:
     def add_car(self, plate):
         self.plates.append(plate)
         self.update_displays()
+        self._log_car_activity(plate, "entered")
 
     def remove_car(self, plate):
         if plate in self.plates:
             self.plates.remove(plate)
             self.update_displays()
+            self._log_car_activity(plate, "exited")
         else:
             raise ValueError("This car has not been registered in ths car park")
 
