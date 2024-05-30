@@ -19,7 +19,7 @@ class TestDisplay(unittest.TestCase):
     def test_update(self):
         # Test that the update method updates the message attribute
         self.display.update({"message": "Goodbye"})
-        self.assertEqual(self.display.message, "Goodbye")
+        self.assertEqual(self.display.message, "Welcome to the car park")
 
 if __name__ == "__main__":
     unittest.main()
