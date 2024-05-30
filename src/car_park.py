@@ -51,3 +51,4 @@ class CarPark:
                            )
             print(f"Updating: {display}")
         # data = {"available_bays": self.available_bays, "temperature": 25}
+

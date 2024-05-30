@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="1bb8332e-c891-4829-904c-df4adb8eb373" name="Changes" comment="Fixed the unit test error">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_display.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_display.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/car_park.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/car_park.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sensor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_car_park.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_car_park.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_sensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_sensor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +63,7 @@
     "Python tests.Python tests for test_car_park.TestCarPark.test_car_park_initialized_with_all_attributes.executor": "Debug",
     "Python tests.Python tests in test_car_park.py.executor": "Run",
     "Python tests.Python tests in test_display.py.executor": "Run",
+    "Python tests.Python tests in test_sensor.py.executor": "Run",
     "Python.__init__.executor": "Run",
     "Python.advanced_template_guess_my_word.executor": "Run",
     "Python.car_park.executor": "Run",
@@ -71,7 +75,7 @@
     "Python.test_display.executor": "Run",
     "Python.wordletest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature/log-car-activity",
     "last_opened_file_path": "C:/Users/chery/OneDrive/Documents/Projects (TAFE)/SmartParkingInitiative/MoondalupSmartParking",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
@@ -274,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716644925447</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Fixed the unit test error">
+      <option name="closed" value="true" />
+      <created>1717076476748</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1717076476749</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

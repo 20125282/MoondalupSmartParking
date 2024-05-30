@@ -37,3 +37,4 @@ class ExitSensor(Sensor):
 
         def _scan_plate(self):
             return random.choice(self.car_park.plates)
+
