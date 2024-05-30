@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bb8332e-c891-4829-904c-df4adb8eb373" name="Changes" comment="Fixed the unit test error">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/car_park.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/car_park.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sensor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_car_park.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_car_park.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_sensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_sensor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
